@@ -3,5 +3,4 @@ The repository contains the trainig, testing, and visualization codes for the re
 ## Binary segmentation results
 ![image](https://github.com/chirAAG-sehgal/CW-NET/assets/121090758/2e68b416-92b4-418f-85e6-101d79ecf6d9)
 ## Multi Class segmentation results
-
-
+![image](https://github.com/chirAAG-sehgal/CW-NET/assets/121090758/e96bbfa3-8aa7-4508-9a45-61c1ae320f73)
